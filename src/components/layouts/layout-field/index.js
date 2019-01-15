@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import './style.less';
+// import './style.less';
 import {themes} from "../../../utils";
 import cn from "classnames";
 

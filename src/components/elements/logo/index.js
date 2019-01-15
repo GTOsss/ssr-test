@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import cn from 'classnames';
-import './style.less';
+// import './style.less';
 import {Link} from 'react-router-dom';
 import themes from '../../../utils/themes';
 

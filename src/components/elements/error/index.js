@@ -6,7 +6,7 @@
  */
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import './style.less';
+// import './style.less';
 
 export default class Error extends Component {
 

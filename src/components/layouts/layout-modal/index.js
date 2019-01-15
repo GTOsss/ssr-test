@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import './style.less';
+// import './style.less';
 import cn from "classnames";
 
 export default class LayoutModal extends Component {
